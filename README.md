@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Matthew Brower
 - Googler
 - SF resident
-- Poor golfer
+- Bad golfer
 - Slow runner
 
 #### From a professional standpoint, I'm interested in the following:
