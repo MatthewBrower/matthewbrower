@@ -9,7 +9,7 @@
 - Helping others navigate career decisions
 
 
-Contact me using [LinkedIn](https://www.linkedin.com/in/matthewabrower/).
+The best way to get in touch is by messaging me on LinkedIn.  [Here's](https://www.linkedin.com/in/matthewabrower/) my profile.
 
 <!--
 **MatthewBrower/matthewbrower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
