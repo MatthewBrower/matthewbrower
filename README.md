@@ -5,8 +5,8 @@
 
 #### From a professional standpoint, I'm interested in the following:
 - Advising startups & small businesses on analytics
-- Nonprofit volunteering & board opportunities
-- Helping others with interviewing & navigating career decisions
+- Nonprofit volunteering opportunities
+- Helping others navigate career decisions
 
 
 Contact me using [LinkedIn](https://www.linkedin.com/in/matthewabrower/).
