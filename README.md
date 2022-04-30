@@ -1,27 +1,11 @@
 ### Hello! 👋 I'm Matthew Brower
-- San Franciscan (by way of Akron, Ohio)
-- Inconsistent golfer
+- San Francisco (by way of Akron, Ohio)
+- Bad golfer
 - Slow runner
 
 #### From a professional standpoint, I'm interested in the following:
-- Advising startups & small businesses on analytics
 - Nonprofit volunteering opportunities
-- Helping others navigate career decisions
+- Helping with career decisions and interviewing
 
 
 The best way to get in touch is by messaging me on LinkedIn.  [Here's](https://www.linkedin.com/in/matthewabrower/) my profile.
-
-<!--
-**MatthewBrower/matthewbrower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
