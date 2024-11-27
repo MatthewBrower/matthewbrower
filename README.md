@@ -2,6 +2,6 @@
 
 [Email](mailto:m@tthewbrower.net)
 
-[LinkedIn](www.linkedin.com/in/matthewabrower)
+[LinkedIn](https://www.linkedin.com/in/matthewabrower)
 
-[Website](www.matthewbrower.net)
+[Website](https://www.matthewbrower.net)
